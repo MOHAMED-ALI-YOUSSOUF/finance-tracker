@@ -7,6 +7,7 @@ const nextConfig = {
           hostname:"*"
         }]
       },
+      ignoreall:true
 };
 
 export default nextConfig;
